@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cw_sachika</string>
+    <string name="textview">LEARN MATHS</string>
+    <string name="textview_2">popup</string>
+    <string name="button_2">New Game</string>
+    <string name="button_1">About</string>
+    <string name="textview_3">textview</string>
+    <string name="textview_4">textview2</string>
+    <string name="textview_5">☺</string>
+    <string name="button_3">GREATER</string>
+    <string name="button_4">==</string>
+    <string name="button_5">LESS</string>
+    <string name="button_next">button1</string>
+    <string name="todo">TODO</string>
+    <string name="textview_7">Wrong Answers</string>
+    <string name="textview_6">Correct Answers</string>
+    <string name="textview_8">-</string>
+    <string name="textview_9">-</string>
+    <string name="textview_10">|Welldone ☺|</string>
+    <string name="timee">TextView</string>
+</resources>
